@@ -1,3 +1,9 @@
+# PIO related files
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+
 # Compiled Object files
 *.slo
 *.lo

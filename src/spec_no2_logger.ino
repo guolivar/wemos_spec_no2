@@ -1,7 +1,6 @@
 /* Wireless NO2 - SPEC
 WEMOS-D1-pro based NO2 sensor
-2016-09-13 Serial communication sorted with SPEC-NO2-DIG
-2016-09-15 ESP8266 module set to deepSleep
+
  */
  #include "Arduino.h"
 
