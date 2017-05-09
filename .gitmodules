@@ -1,0 +1,3 @@
+[submodule "lib/ThingSpeak"]
+	path = lib/ThingSpeak
+	url = https://github.com/mathworks/thingspeak-arduino.git
